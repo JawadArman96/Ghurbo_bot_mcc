@@ -1,0 +1,148 @@
+Non-stop Flights:
+Flight No.	Departure	Arrival	Total Fare
+
+Jet Airways
+9W 273
+Sep 05, 18
+17:20
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+17:50
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+BDT 6176
+
+Nacil Air India
+AI 229
+Sep 05, 18
+21:25
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+21:50
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+BDT 6840
+
+Biman Airlines
+BG 91
+Sep 05, 18
+07:00
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+07:25
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+BDT 7255
+
+Biman Airlines
+BG 95
+Sep 05, 18
+19:20
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+19:45
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+BDT 7255
+
+Multi-stop Flights:
+Route#1:
+BDT 33112
+
+Flight No.	Departure	Arrival
+
+Thai Airways Intl
+TG 322
+Sep 05, 18
+13:35
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+17:00
+
+Bangkok
+Suvarnabhumi Airport (BKK)
+
+
+Thai Airways Intl
+TG 313
+Sep 05, 18
+23:45
+
+Bangkok
+Suvarnabhumi Airport (BKK)
+
+Sep 06, 18
+00:45
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+
+Route#2:
+BDT 34405
+
+Flight No.	Departure	Arrival
+
+China Eastern Airlines
+MU 2036
+Sep 05, 18
+14:35
+
+Dhaka
+Dhaka / Hazrat Shahjalal International Airport (DAC)
+
+Sep 05, 18
+18:55
+
+Kunming
+Kunming Changshui International Airport (KMG)
+
+
+China Eastern Airlines
+MU 555
+Sep 05, 18
+23:35
+
+Kunming
+Kunming Changshui International Airport (KMG)
+
+Sep 05, 18
+23:50
+
+Kolkata
+Netaji Subhash Chandra Bose International Airport (CCU)
+
+
+Route#3:
+BDT 34974
+
+Flight No.	Departure	Arrival
+
+Thai Airways Intl
+TG 340
+Sep 05, 18
+02:00
+

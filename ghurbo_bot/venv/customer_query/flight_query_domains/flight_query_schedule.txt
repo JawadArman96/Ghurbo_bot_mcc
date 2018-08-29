@@ -1,0 +1,19 @@
+শিডিউল
+টাইমটেবিল
+সময়
+টাইম
+ডেট
+ফ্লাইটপ্ল্যান
+ফ্লাইট-প্ল্যান
+ফ্লাইটপ্রোগ্রাম
+ফ্লাইট-প্রোগ্রাম
+schedule
+timetable
+time
+shomoy
+somoy
+date
+flight-plan
+flight plan
+flightplan
+flight-program
